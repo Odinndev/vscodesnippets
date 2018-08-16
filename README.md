@@ -1,2 +1,2 @@
 # vscodesnippets
-Vs Code Snippets
+Personal Media queries Snippets for Vs Code.
